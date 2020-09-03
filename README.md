@@ -1,2 +1,2 @@
 # conplot-docker
-Docker repository for ConPlot
+This repository contains files to build ConPlot's Docker image
